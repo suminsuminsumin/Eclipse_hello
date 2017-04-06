@@ -5,6 +5,7 @@ public class push_print {
 		// TODO Auto-generated method stub
 
 		System.out.println("ADD JAVA FILE");
+		System.out.println("Diffrent hello");
 	}
 
 }
